@@ -50,8 +50,8 @@ Pada proyek ini beberapa teknik visualisasi data digunakan, seperti pie chart, r
 1. Pie Chart: Status Distribution of Dataset. Visualisasi ini digunakan untuk menunjukkan distribusi kategori pada variabel target Level dalam bentuk persentase. Pie chart memberikan gambaran yang jelas tentang proporsi kategori dalam dataset, seperti Low, Medium, dan High.
 
     <details>
-        <summary>Lihat gambar</summary>
-            ![Pie chart](https://github.com/aziza8/MLP/blob/main/User/piechart.png)
+        <summary>Lihat gambar</summary>            
+            ![Pie chart](https://github.com/aziza8/MLP/blob/37527a3fa8a8ec381666c8016283f74103b52a5e/piechart.png)
     </details>
 
     Insight:
@@ -61,7 +61,7 @@ Pada proyek ini beberapa teknik visualisasi data digunakan, seperti pie chart, r
 2. Regplot: Relationship between Features and Target. Untuk setiap fitur dalam dataset, dibuat regression plot terhadap variabel target Level. Regplot ini menunjukkan hubungan linier antara fitur dan target, dengan tambahan Lowess smoothing untuk menampilkan tren yang lebih jelas. Visualisasi ini membantu dalam memahami pola antara fitur dan variabel target.
     <details>
         <summary>Lihat gambar</summary>
-            ![Regplot](https://github.com/aziza8/MLP/blob/main/User/regplot.png)
+            ![Regplot](https://github.com/aziza8/MLP/blob/37527a3fa8a8ec381666c8016283f74103b52a5e/regplot.png)
     </details>
     Insight:
      - Hubungan antara fitur dan target bervariasi. Beberapa menunjukkan korelasi yang kuat (positif maupun negatif).
@@ -71,7 +71,7 @@ Pada proyek ini beberapa teknik visualisasi data digunakan, seperti pie chart, r
 
     <details>
         <summary>Lihat gambar</summary>
-            ![Violin](https://github.com/aziza8/MLP/blob/main/User/violinplot.png)
+            ![Violin](https://github.com/aziza8/MLP/blob/37527a3fa8a8ec381666c8016283f74103b52a5e/violinplot.png)
     </details>
     Insight:
 
@@ -83,7 +83,7 @@ Pada proyek ini beberapa teknik visualisasi data digunakan, seperti pie chart, r
 
     <details>
         <summary>Lihat gambar</summary>
-            ![Histogram](https://github.com/aziza8/MLP/blob/main/User/histplot.png)
+            ![Histogram](https://github.com/aziza8/MLP/blob/37527a3fa8a8ec381666c8016283f74103b52a5e/histplot.png)
     </details>
     Insight:
 
@@ -95,7 +95,7 @@ Pada proyek ini beberapa teknik visualisasi data digunakan, seperti pie chart, r
 
     <details>
         <summary>Lihat gambar</summary>
-            ![Heatmap](https://github.com/aziza8/MLP/blob/main/User/heatmap.png)
+            ![Heatmap](https://github.com/aziza8/MLP/blob/37527a3fa8a8ec381666c8016283f74103b52a5e/heatmap.png)
     </details>
     Insight:
 
