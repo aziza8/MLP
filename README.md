@@ -63,7 +63,7 @@ Pada proyek ini beberapa teknik visualisasi data digunakan, seperti pie chart, r
         <summary>Lihat gambar</summary>
             
     </details>
-    ![Regplot](https://github.com/aziza8/MLP/blob/main/regplot.png?raw=true)
+![Regplot](https://github.com/aziza8/MLP/blob/main/regplot.png?raw=true)
     
     Insight:
      - Hubungan antara fitur dan target bervariasi. Beberapa menunjukkan korelasi yang kuat (positif maupun negatif).
@@ -75,7 +75,7 @@ Pada proyek ini beberapa teknik visualisasi data digunakan, seperti pie chart, r
         <summary>Lihat gambar</summary>
             
     </details>
-    ![Violin](https://github.com/aziza8/MLP/blob/main/violinplot.png?raw=true)
+![Violin](https://github.com/aziza8/MLP/blob/main/violinplot.png?raw=true)
     
     Insight:
 
@@ -89,7 +89,7 @@ Pada proyek ini beberapa teknik visualisasi data digunakan, seperti pie chart, r
         <summary>Lihat gambar</summary>
             
     </details>
-    ![Histogram](https://github.com/aziza8/MLP/blob/main/histplot.png?raw=true)
+![Histogram](https://github.com/aziza8/MLP/blob/main/histplot.png?raw=true)
     
     Insight:
 
@@ -103,7 +103,7 @@ Pada proyek ini beberapa teknik visualisasi data digunakan, seperti pie chart, r
         <summary>Lihat gambar</summary>
             
     </details>
-    ![Heatmap](https://github.com/aziza8/MLP/blob/main/heatmap.png?raw=true)
+![Heatmap](https://github.com/aziza8/MLP/blob/main/heatmap.png?raw=true)
     
     Insight:
 
