@@ -50,17 +50,15 @@ Pada proyek ini beberapa teknik visualisasi data digunakan, seperti pie chart, r
 1. Pie Chart: Status Distribution of Dataset. Visualisasi ini digunakan untuk menunjukkan distribusi kategori pada variabel target Level dalam bentuk persentase. Pie chart memberikan gambaran yang jelas tentang proporsi kategori dalam dataset, seperti Low, Medium, dan High.
 
     <details>
-        <summary>Lihat gambar<
-        /summary>        
-            
+        <summary>Lihat Gambar</summary>
     </details>
     ![Pie chart](https://github.com/aziza8/MLP/blob/main/piechart.png?raw=true)
-
+    
     Insight:
     - Distribusi tidak merata di antara tiga kategori risiko.
     - Risiko Tinggi (36.5%), Sedang (33.2%), dan Rendah (30.3%).
 
-2. Regplot: Relationship between Features and Target. Untuk setiap fitur dalam dataset, dibuat regression plot terhadap variabel target Level. Regplot ini menunjukkan hubungan linier antara fitur dan target, dengan tambahan Lowess smoothing untuk menampilkan tren yang lebih jelas. Visualisasi ini membantu dalam memahami pola antara fitur dan variabel target.
+3. Regplot: Relationship between Features and Target. Untuk setiap fitur dalam dataset, dibuat regression plot terhadap variabel target Level. Regplot ini menunjukkan hubungan linier antara fitur dan target, dengan tambahan Lowess smoothing untuk menampilkan tren yang lebih jelas. Visualisasi ini membantu dalam memahami pola antara fitur dan variabel target.
     <details>
         <summary>Lihat gambar</summary>
             
@@ -71,7 +69,7 @@ Pada proyek ini beberapa teknik visualisasi data digunakan, seperti pie chart, r
      - Hubungan antara fitur dan target bervariasi. Beberapa menunjukkan korelasi yang kuat (positif maupun negatif).
     - Terdapat fitur-fitur yang memiliki hubungan lebih kuat dan lebih jelas dengan target.
 
-3. Violin Plot: Distribution of Features by Level. Violin plot digunakan untuk menggambarkan distribusi setiap fitur numerik berdasarkan kategori level pada variabel target Level. Plot ini memberikan informasi tentang distribusi dan kepadatan data untuk masing-masing kategori (Low, Medium, High), serta memberikan perbandingan visual yang kuat antar kategori.
+4. Violin Plot: Distribution of Features by Level. Violin plot digunakan untuk menggambarkan distribusi setiap fitur numerik berdasarkan kategori level pada variabel target Level. Plot ini memberikan informasi tentang distribusi dan kepadatan data untuk masing-masing kategori (Low, Medium, High), serta memberikan perbandingan visual yang kuat antar kategori.
 
     <details>
         <summary>Lihat gambar</summary>
@@ -85,7 +83,7 @@ Pada proyek ini beberapa teknik visualisasi data digunakan, seperti pie chart, r
     - Garis tengah pada violin plot mewakili median, sedangkan bagian yang lebih tebal menunjukkan rentang interkuartil (IQR). Ini memberikan gambaran tentang lokasi pusat data dan seberapa tersebar data di sekitar median.
     - Titik-titik data yang berada di luar 'kumis' violin plot dianggap sebagai outlier.
 
-4. Histogram with Normal Distribution Fit. Histogram dibuat untuk setiap fitur dalam dataset untuk mengevaluasi distribusi datanya. Selain itu, estimasi mean (μ) dan standard deviation (σ) dari distribusi ditambahkan, bersama dengan KDE plot untuk melihat kepadatan distribusi. Visualisasi ini membantu dalam memahami apakah fitur mengikuti distribusi normal atau tidak.
+5. Histogram with Normal Distribution Fit. Histogram dibuat untuk setiap fitur dalam dataset untuk mengevaluasi distribusi datanya. Selain itu, estimasi mean (μ) dan standard deviation (σ) dari distribusi ditambahkan, bersama dengan KDE plot untuk melihat kepadatan distribusi. Visualisasi ini membantu dalam memahami apakah fitur mengikuti distribusi normal atau tidak.
 
     <details>
         <summary>Lihat gambar</summary>
@@ -99,7 +97,7 @@ Pada proyek ini beberapa teknik visualisasi data digunakan, seperti pie chart, r
     - Jika histogram miring ke kanan, banyak data berkumpul di nilai yang lebih rendah. Jika miring ke kiri, banyak data berkumpul di nilai yang lebih tinggi.
     - Kurtosis yang mengukur seberapa 'runcing' atau 'gepeng' distribusi. Distribusi leptokurtik (runcing), sedangkan distribusi platykurtik (gepeng).
 
-5. Heatmap: Correlation Matrix of Features. Heatmap digunakan untuk memvisualisasikan matriks korelasi antar fitur dalam dataset. Matriks korelasi ini menunjukkan hubungan linear antara fitur, dengan nilai korelasi ditampilkan secara numerik di dalam plot. Heatmap ini sangat berguna untuk mengidentifikasi fitur-fitur yang berkorelasi kuat satu sama lain, yang bisa membantu dalam proses feature selection.
+6. Heatmap: Correlation Matrix of Features. Heatmap digunakan untuk memvisualisasikan matriks korelasi antar fitur dalam dataset. Matriks korelasi ini menunjukkan hubungan linear antara fitur, dengan nilai korelasi ditampilkan secara numerik di dalam plot. Heatmap ini sangat berguna untuk mengidentifikasi fitur-fitur yang berkorelasi kuat satu sama lain, yang bisa membantu dalam proses feature selection.
 
     <details>
         <summary>Lihat gambar</summary>
