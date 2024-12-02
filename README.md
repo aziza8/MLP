@@ -50,9 +50,10 @@ Pada proyek ini beberapa teknik visualisasi data digunakan, seperti pie chart, r
 1. Pie Chart: Status Distribution of Dataset. Visualisasi ini digunakan untuk menunjukkan distribusi kategori pada variabel target Level dalam bentuk persentase. Pie chart memberikan gambaran yang jelas tentang proporsi kategori dalam dataset, seperti Low, Medium, dan High.
 
     <details>
-        <summary>Lihat gambar</summary>            
-            ![Pie chart](https://github.com/aziza8/MLP/blob/main/piechart.png?raw=true)
+        <summary>Lihat gambar</summary>         
+            
     </details>
+    ![Pie chart](https://github.com/aziza8/MLP/blob/main/piechart.png?raw=true)
 
     Insight:
     - Distribusi tidak merata di antara tiga kategori risiko.
@@ -61,8 +62,9 @@ Pada proyek ini beberapa teknik visualisasi data digunakan, seperti pie chart, r
 2. Regplot: Relationship between Features and Target. Untuk setiap fitur dalam dataset, dibuat regression plot terhadap variabel target Level. Regplot ini menunjukkan hubungan linier antara fitur dan target, dengan tambahan Lowess smoothing untuk menampilkan tren yang lebih jelas. Visualisasi ini membantu dalam memahami pola antara fitur dan variabel target.
     <details>
         <summary>Lihat gambar</summary>
-            ![Regplot](https://github.com/aziza8/MLP/blob/main/regplot.png?raw=true)
+            
     </details>
+    ![Regplot](https://github.com/aziza8/MLP/blob/main/regplot.png?raw=true)
     Insight:
      - Hubungan antara fitur dan target bervariasi. Beberapa menunjukkan korelasi yang kuat (positif maupun negatif).
     - Terdapat fitur-fitur yang memiliki hubungan lebih kuat dan lebih jelas dengan target.
@@ -71,8 +73,9 @@ Pada proyek ini beberapa teknik visualisasi data digunakan, seperti pie chart, r
 
     <details>
         <summary>Lihat gambar</summary>
-            ![Violin](https://github.com/aziza8/MLP/blob/main/violinplot.png?raw=true)
+            
     </details>
+    ![Violin](https://github.com/aziza8/MLP/blob/main/violinplot.png?raw=true)
     Insight:
 
     - Bentuk dan lebar violin plot yang berbeda-beda untuk setiap kategori menunjukkan bahwa distribusi fitur bervariasi secara signifikan antar kelompok 'Level'. Beberapa fitur menunjukkan perbedaan yang jelas antara kelompok 'Level'. Misalnya, untuk fitur 'Usia' pada kelompok 'Tinggi' cenderung lebih tinggi dibandingkan kelompok 'Rendah', maka dapat disimpulkan bahwa usia lebih tinggi terkait dengan tingkat risiko yang lebih tinggi.
@@ -83,8 +86,9 @@ Pada proyek ini beberapa teknik visualisasi data digunakan, seperti pie chart, r
 
     <details>
         <summary>Lihat gambar</summary>
-            ![Histogram](https://github.com/aziza8/MLP/blob/main/histplot.png?raw=true)
+            
     </details>
+    ![Histogram](https://github.com/aziza8/MLP/blob/main/histplot.png?raw=true)
     Insight:
 
     - Jika data mengikuti distribusi normal, maka sebagian besar data akan terkonsentrasi di sekitar rata-rata (mean), dan semakin menjauh dari rata-rata, frekuensinya akan semakin menurun.
@@ -95,8 +99,9 @@ Pada proyek ini beberapa teknik visualisasi data digunakan, seperti pie chart, r
 
     <details>
         <summary>Lihat gambar</summary>
-            ![Heatmap](https://github.com/aziza8/MLP/blob/main/heatmap.png?raw=true)
+            
     </details>
+    ![Heatmap](https://github.com/aziza8/MLP/blob/main/heatmap.png?raw=true)
     Insight:
 
     - Banyak kotak berwarna merah pekat menandakan tingginya korelasi antar variabel.
