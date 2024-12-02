@@ -61,7 +61,7 @@ Pada proyek ini beberapa teknik visualisasi data digunakan, seperti pie chart, r
 2. Regplot: Relationship between Features and Target. Untuk setiap fitur dalam dataset, dibuat regression plot terhadap variabel target Level. Regplot ini menunjukkan hubungan linier antara fitur dan target, dengan tambahan Lowess smoothing untuk menampilkan tren yang lebih jelas. Visualisasi ini membantu dalam memahami pola antara fitur dan variabel target.
     <details>
         <summary>Lihat gambar</summary>
-            ![Regplot](https://github.com/aziza8/MLP/blob/37527a3fa8a8ec381666c8016283f74103b52a5e/regplot.png?raw=true)
+            ![Regplot](https://github.com/aziza8/MLP/blob/main/regplot.png?raw=true)
     </details>
     Insight:
      - Hubungan antara fitur dan target bervariasi. Beberapa menunjukkan korelasi yang kuat (positif maupun negatif).
@@ -71,7 +71,7 @@ Pada proyek ini beberapa teknik visualisasi data digunakan, seperti pie chart, r
 
     <details>
         <summary>Lihat gambar</summary>
-            ![Violin](https://github.com/aziza8/MLP/blob/37527a3fa8a8ec381666c8016283f74103b52a5e/violinplot.png?raw=true)
+            ![Violin](https://github.com/aziza8/MLP/blob/main/violinplot.png?raw=true)
     </details>
     Insight:
 
@@ -83,7 +83,7 @@ Pada proyek ini beberapa teknik visualisasi data digunakan, seperti pie chart, r
 
     <details>
         <summary>Lihat gambar</summary>
-            ![Histogram](https://github.com/aziza8/MLP/blob/37527a3fa8a8ec381666c8016283f74103b52a5e/histplot.png?raw=true)
+            ![Histogram](https://github.com/aziza8/MLP/blob/main/histplot.png?raw=true)
     </details>
     Insight:
 
@@ -95,7 +95,7 @@ Pada proyek ini beberapa teknik visualisasi data digunakan, seperti pie chart, r
 
     <details>
         <summary>Lihat gambar</summary>
-            ![Heatmap](https://github.com/aziza8/MLP/blob/37527a3fa8a8ec381666c8016283f74103b52a5e/heatmap.png?raw=true)
+            ![Heatmap](https://github.com/aziza8/MLP/blob/main/heatmap.png?raw=true)
     </details>
     Insight:
 
