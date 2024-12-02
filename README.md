@@ -50,7 +50,8 @@ Pada proyek ini beberapa teknik visualisasi data digunakan, seperti pie chart, r
 1. Pie Chart: Status Distribution of Dataset. Visualisasi ini digunakan untuk menunjukkan distribusi kategori pada variabel target Level dalam bentuk persentase. Pie chart memberikan gambaran yang jelas tentang proporsi kategori dalam dataset, seperti Low, Medium, dan High.
 
     <details>
-        <summary>Lihat gambar</summary>         
+        <summary>Lihat gambar<
+        /summary>        
             
     </details>
     ![Pie chart](https://github.com/aziza8/MLP/blob/main/piechart.png?raw=true)
