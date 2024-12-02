@@ -51,7 +51,7 @@ Pada proyek ini beberapa teknik visualisasi data digunakan, seperti pie chart, r
 
     <details>
         <summary>Lihat gambar</summary>            
-            ![Pie chart](https://github.com/aziza8/MLP/blob/37527a3fa8a8ec381666c8016283f74103b52a5e/piechart.png?raw=true)
+            ![Pie chart](https://github.com/aziza8/MLP/blob/main/piechart.png?raw=true)
     </details>
 
     Insight:
