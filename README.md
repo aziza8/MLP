@@ -52,7 +52,7 @@ Pada proyek ini beberapa teknik visualisasi data digunakan, seperti pie chart, r
     <details>
         <summary>Lihat Gambar</summary>
     </details>
-    ![Pie chart](https://github.com/aziza8/MLP/blob/main/piechart.png?raw=true)
+![Pie chart](https://github.com/aziza8/MLP/blob/main/piechart.png?raw=true)
     
     Insight:
     - Distribusi tidak merata di antara tiga kategori risiko.
